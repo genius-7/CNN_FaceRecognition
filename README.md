@@ -13,4 +13,4 @@ python train.py
 python recognition.py
 
 
-## you can have a basic acknowledge about CNN through this project.
+## You can have a basic acknowledge about CNN through this project.
